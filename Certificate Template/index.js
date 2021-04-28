@@ -55,7 +55,7 @@ module.exports = ({ name, role, course }) => {
     </head>
     <body>
       <div class="container">
-        <div class="logo">An Organization</div>
+        <div class="logo">StablX</div>
   
         <div class="marquee">Certificate of Completion</div>
   
